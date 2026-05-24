@@ -9,7 +9,7 @@
 # Hi, I'm Karthik Godugolla
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+GenAI+Enthusiast;2%2B+Years+of+Experience;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+Engineer;GenAI+%26+LLM+Enthusiast;High+Performance+Computing+%7C+CUDA;2%2B+Years+of+Experience;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,10 +21,10 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧠 About Me
 
-I'm a **Data Scientist** with 2+ years of experience building machine learning pipelines, data-driven solutions, and AI-powered applications. I'm passionate about extracting meaningful insights from data and deploying models that create real-world impact.
+I'm a **Data Scientist** with 2+ years of experience building machine learning pipelines, high-performance data systems, and GenAI-powered applications. I'm passionate about extracting meaningful insights from data and deploying models that create real-world impact — from classical ML to cutting-edge LLMs.
 
-- 🔭 Currently working on **ML & GenAI projects** at the intersection of data and intelligence
-- 📝 I share knowledge through **YouTube**, **Medium**, and **Instagram** — documenting my journey in Data Science & AI
+- 🔭 Currently working on **ML, GenAI & High Performance Computing** projects
+- 🚀 Deep interest in **CUDA programming, parallel computing**, and pushing the limits of compute
 - 🌱 Exploring **LLMs, RAG pipelines, and Agentic AI** systems
 - ⚡ Fun fact: I love playing badminton and diving into mythology books in my spare time!
 - 📫 Reach me at: **karthik.godugolla@gmail.com**
@@ -34,10 +34,14 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 <!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
-**Data & ML Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data & ML Core**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,6 +53,12 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+
+**High Performance Computing**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-FF6600?style=for-the-badge&logo=intel&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 **Data Engineering**
 
@@ -66,12 +76,14 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Tools & Cloud**
+**Cloud & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -92,41 +104,12 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KARTHIKGODUGOLLA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHIKGODUGOLLA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIKGODUGOLLA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=KARTHIKGODUGOLLA&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to discussing **Data Science**, **Machine Learning**, **AI/GenAI**, or collaboration opportunities.
+I'm always open to discussing **Data Science**, **Machine Learning**, **GenAI**, **High Performance Computing**, or collaboration opportunities.
 
 Feel free to reach out — let's build something amazing together! 🚀
 
@@ -137,7 +120,8 @@ Feel free to reach out — let's build something amazing together! 🚀
 
 <br/>
 
-*"In God we trust. All others must bring data." — W. Edwards Deming*
+*"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius*
+*In the age of AI, every obstacle in your data is a doorway to insight.*
 
 <br/>
 
