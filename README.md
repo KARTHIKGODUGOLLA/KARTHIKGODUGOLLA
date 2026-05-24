@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-<img src="https://img.shields.io/badge/Profile%20Views-2653-0e75b6?style=flat" alt="Profile Views" />
 
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
