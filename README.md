@@ -18,47 +18,37 @@
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
 ## 🧠 About Me
 
-I'm a **Data Engineer & ML Engineer** pursuing my **M.S. in Data Science at Rochester Institute of Technology**. With 2+ years of experience, I build terabyte-scale ETL pipelines, real-time streaming systems, and GenAI-powered data platforms that create measurable impact.
+I'm a **Data Engineer & ML Engineer** pursuing my **M.S. in Data Science at Rochester Institute of Technology** (GPA: 3.89/4.0). With 2+ years of experience, I build terabyte-scale ETL pipelines, real-time streaming systems, and GenAI-powered data platforms that create measurable impact.
 
-Currently working as a **Machine Learning & Data Analytics at Fresenius Medical Care**, where I work on clinical analytics infrastructure serving millions of dialysis patient events daily.
+Currently on a **Machine Learning & Data Analytics Co-op at Fresenius Medical Care**, building clinical analytics infrastructure serving millions of dialysis patient events daily.
 
-- 📉 Reduced data latency **~40%** by architecting terabyte-scale ETL pipelines on **AWS S3 + Databricks**
+- 📉 Reduced data latency **~40%** architecting terabyte-scale ETL pipelines on **AWS S3 + Databricks**
 - 🌊 Built **Kafka streaming pipelines** processing **millions of sensor events daily** across thousands of dialysis devices
 - 🤖 Designed a **RAG-based intelligent data discovery platform** cutting onboarding time **~40%** for data scientists
-- 🛡️ Enforced **HIPAA/FDA** data quality standards across 10+ production pipelines, reducing ingestion failures **~35%**
+- 🛡️ Enforced **HIPAA/FDA** quality standards across 10+ production pipelines, reducing ingestion failures **~35%**
 - 🚀 Deep interest in **CUDA programming, parallel computing**, and pushing compute to its limits
 - 📫 Reach me at: **karthik.godugolla@gmail.com**
 
 ---
 
-<!-- SECTION C: FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-### ⚡ Real-Time Streaming & Batch Processing Platform
-> *Kafka · Flink · PySpark · SparkSQL · AWS S3 · Parquet · Lambda Architecture*
+**⚡ Real-Time Streaming & Batch Processing Platform** &nbsp;·&nbsp; *Kafka · Flink · PySpark · AWS S3 · Lambda Architecture*
 
-Eliminated processing bottlenecks for **50M+ daily events** from 50+ producers using a **Lambda Architecture** — Kafka + Flink for real-time detection and PySpark/SparkSQL batch-layer on **AWS S3**. Achieved **zero unplanned downtime** and reduced data quality incidents **~30%** via automated schema evolution and fault-tolerant validation.
+Eliminated bottlenecks for **50M+ daily events** using a Lambda Architecture — Kafka + Flink for real-time detection with a PySpark batch-layer on AWS S3. Achieved **zero unplanned downtime**.
 
----
+**📡 IoT Device Telemetry Analytics Pipeline** &nbsp;·&nbsp; *PySpark · Delta Lake · Databricks · Airflow · SparkSQL*
 
-### 📡 IoT Device Telemetry Analytics Pipeline
-> *PySpark · Hadoop (Hive, HDFS) · Databricks · Delta Lake · Airflow · SparkSQL*
+Achieved **100% data consistency** across **5TB+** of multi-sensor IoT telemetry via a Delta Lake medallion architecture, reducing analytical query latency **~45%**.
 
-Achieved **100% data consistency** across **5TB+** of multi-sensor IoT telemetry by engineering PySpark batch pipelines into a **Delta Lake medallion architecture**. Reduced analytical query latency **~45%** via Airflow DAGs with SLA-bound scheduling delivering HiveQL-compatible Parquet tables.
+**🧠 AI-Powered Product Recommender** &nbsp;·&nbsp; *Python · FAISS · OpenAI Embeddings · RAG · AWS · Streamlit*
 
----
-
-### 🧠 AI-Powered Product Recommender
-> *Python · FAISS · OpenAI Embeddings · RAG · AWS S3/EC2 · Streamlit*
-
-Built a scalable **RAG-based recommendation engine** (OpenAI + FAISS) achieving **<50ms semantic retrieval latency**. Engineered an automated AWS pipeline (S3, EC2) for continuous scraping and FAISS reindexing, deployed with a **Streamlit interface** for explainable AI self-service recommendations.
+Built a RAG-based recommendation engine achieving **<50ms semantic retrieval latency**, deployed with an automated AWS pipeline and a Streamlit interface for explainable AI recommendations.
 
 ---
 
-<!-- SECTION D: TECH STACK -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -85,7 +75,6 @@ Built a scalable **RAG-based recommendation engine** (OpenAI + FAISS) achieving 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 
 **Machine Learning & Deep Learning**
 
@@ -122,22 +111,18 @@ Built a scalable **RAG-based recommendation engine** (OpenAI + FAISS) achieving 
 
 ---
 
-<!-- SECTION E: SOCIAL MEDIA LINKS -->
 ## 🌐 Find Me Online
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgodugolla/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KARTHIKGODUGOLLA)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthikgodugolla)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karthikgodugolla/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me_karthee/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthik.godugolla@gmail.com)
 
 </div>
 
 ---
 
-<!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect
 
 <div align="center">
