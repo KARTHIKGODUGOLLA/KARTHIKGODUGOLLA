@@ -9,7 +9,7 @@
 # Hi, I'm Karthik Godugolla
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+Engineer;GenAI+%26+LLM+Enthusiast;High+Performance+Computing+%7C+CUDA;2%2B+Years+of+Experience;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+ML+Engineer;Terabyte-Scale+ETL+%26+Streaming+Pipelines;GenAI+%26+RAG+Systems+Builder;CUDA+%7C+HPC+%7C+Parallel+Computing;M.S.+Data+Science+%40+RIT" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,17 +21,44 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧠 About Me
 
-I'm a **Data Scientist** with 2+ years of experience building machine learning pipelines, high-performance data systems, and GenAI-powered applications. I'm passionate about extracting meaningful insights from data and deploying models that create real-world impact — from classical ML to cutting-edge LLMs.
+I'm a **Data Engineer & ML Engineer** pursuing my **M.S. in Data Science at Rochester Institute of Technology** (GPA: 3.89/4.0). With 2+ years of experience, I build terabyte-scale ETL pipelines, real-time streaming systems, and GenAI-powered data platforms that create measurable impact.
 
-- 🔭 Currently working on **ML, GenAI & High Performance Computing** projects
-- 🚀 Deep interest in **CUDA programming, parallel computing**, and pushing the limits of compute
-- 🌱 Exploring **LLMs, RAG pipelines, and Agentic AI** systems
-- ⚡ Fun fact: I love playing badminton and diving into mythology books in my spare time!
+Currently on a **Machine Learning & Data Analytics Co-op at Fresenius Medical Care**, where I work on clinical analytics infrastructure serving millions of dialysis patient events daily.
+
+- 📉 Reduced data latency **~40%** by architecting terabyte-scale ETL pipelines on **AWS S3 + Databricks**
+- 🌊 Built **Kafka streaming pipelines** processing **millions of sensor events daily** across thousands of dialysis devices
+- 🤖 Designed a **RAG-based intelligent data discovery platform** cutting onboarding time **~40%** for data scientists
+- 🛡️ Enforced **HIPAA/FDA** data quality standards across 10+ production pipelines, reducing ingestion failures **~35%**
+- 🚀 Deep interest in **CUDA programming, parallel computing**, and pushing compute to its limits
 - 📫 Reach me at: **karthik.godugolla@gmail.com**
 
 ---
 
-<!-- SECTION C: TECH STACK -->
+<!-- SECTION C: FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+### ⚡ Real-Time Streaming & Batch Processing Platform
+> *Kafka · Flink · PySpark · SparkSQL · AWS S3 · Parquet · Lambda Architecture*
+
+Eliminated processing bottlenecks for **50M+ daily events** from 50+ producers using a **Lambda Architecture** — Kafka + Flink for real-time detection and PySpark/SparkSQL batch-layer on **AWS S3**. Achieved **zero unplanned downtime** and reduced data quality incidents **~30%** via automated schema evolution and fault-tolerant validation.
+
+---
+
+### 📡 IoT Device Telemetry Analytics Pipeline
+> *PySpark · Hadoop (Hive, HDFS) · Databricks · Delta Lake · Airflow · SparkSQL*
+
+Achieved **100% data consistency** across **5TB+** of multi-sensor IoT telemetry by engineering PySpark batch pipelines into a **Delta Lake medallion architecture**. Reduced analytical query latency **~45%** via Airflow DAGs with SLA-bound scheduling delivering HiveQL-compatible Parquet tables.
+
+---
+
+### 🧠 AI-Powered Product Recommender
+> *Python · FAISS · OpenAI Embeddings · RAG · AWS S3/EC2 · Streamlit*
+
+Built a scalable **RAG-based recommendation engine** (OpenAI + FAISS) achieving **<50ms semantic retrieval latency**. Engineered an automated AWS pipeline (S3, EC2) for continuous scraping and FAISS reindexing, deployed with a **Streamlit interface** for explainable AI self-service recommendations.
+
+---
+
+<!-- SECTION D: TECH STACK -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -39,42 +66,48 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data & ML Core**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-
-**High Performance Computing**
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-FF6600?style=for-the-badge&logo=intel&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![SparkSQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Data Engineering**
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
 **AI / GenAI Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**High Performance Computing**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-FF6600?style=for-the-badge&logo=intel&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -89,7 +122,7 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
+<!-- SECTION E: SOCIAL MEDIA LINKS -->
 ## 🌐 Find Me Online
 
 <div align="center">
@@ -104,12 +137,12 @@ I'm a **Data Scientist** with 2+ years of experience building machine learning p
 
 ---
 
-<!-- SECTION H: FOOTER -->
+<!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to discussing **Data Science**, **Machine Learning**, **GenAI**, **High Performance Computing**, or collaboration opportunities.
+I'm always open to discussing **Data Engineering**, **ML Systems**, **GenAI**, **HPC**, or collaboration opportunities.
 
 Feel free to reach out — let's build something amazing together! 🚀
 
