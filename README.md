@@ -20,7 +20,7 @@
 
 I'm a **Data Engineer & ML Engineer** pursuing my **M.S. in Data Science at Rochester Institute of Technology** (GPA: 3.89/4.0). With 2+ years of experience, I build terabyte-scale ETL pipelines, real-time streaming systems, and GenAI-powered data platforms that create measurable impact.
 
-Currently on a **Machine Learning & Data Analytics Co-op at Fresenius Medical Care**, building clinical analytics infrastructure serving millions of dialysis patient events daily.
+Currently working as a **Machine Learning & Data Analytics at Fresenius Medical Care**, building clinical analytics infrastructure serving millions of dialysis patient events daily.
 
 - 📉 Reduced data latency **~40%** architecting terabyte-scale ETL pipelines on **AWS S3 + Databricks**
 - 🌊 Built **Kafka streaming pipelines** processing **millions of sensor events daily** across thousands of dialysis devices
