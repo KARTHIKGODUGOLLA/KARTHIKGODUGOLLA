@@ -120,8 +120,9 @@ Feel free to reach out — let's build something amazing together! 🚀
 
 <br/>
 
-*"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius*
-*In the age of AI, every obstacle in your data is a doorway to insight.*
+*"The impediment to action advances action. What stands in the way becomes the way."*
+
+*— Marcus Aurelius &nbsp;|&nbsp; In the age of AI, every obstacle in your data is a doorway to insight.*
 
 <br/>
 
