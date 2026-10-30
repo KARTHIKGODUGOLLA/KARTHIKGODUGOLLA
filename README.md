@@ -16,7 +16,7 @@
 ## About Me
 
 Data and AI engineer with **3 years** building the pipelines and platforms that businesses
-actually run decisions on. **M.S. Data Science, Rochester Institute of Technology** (GPA 3.89/4.0).
+actually run decisions on. **M.S. Data Science, Rochester Institute of Technology** (GPA 3.76/4.0).
 
 Most recently at **Fresenius Medical Care**, where I owned ingestion, transformation, and the
 lakehouse and warehouse layers underneath enterprise reporting, in a HIPAA-regulated environment.
@@ -27,7 +27,7 @@ first author on a paper currently in preparation.
   Salesforce, SAP, REST APIs and Kafka, transformed with **dbt** on **Microsoft Fabric** and
   **Databricks**
 - Designed and shipped a **production RAG knowledge agent** end to end as sole developer:
-  **43,700+ documents**, **270K+ embedded chunks**, MCP server integration, gated by an
+  **47K+ documents**, **270K+ embedded chunks**, MCP server integration, gated by an
   **LLM-as-judge evaluation harness at 88% groundedness**
 - Trained a 90-day patient risk model over **800+ engineered features** that cut attrition
   roughly **6%** in the targeted cohort against a holdout
@@ -60,7 +60,7 @@ sweep on multi-worker GPU infrastructure with CUDA.
 **Knowledge Agent — Production RAG over Internal Documentation**
 *Azure OpenAI · RAG · MCP · Python · LLM-as-judge evaluation*
 Designed and built end to end as sole developer, still in daily use. Grounded question answering
-over 43,700+ wiki and repository pages (270K+ embedded chunks), with MCP server integration for
+over 47K+ wiki and repository pages (270K+ embedded chunks), with MCP server integration for
 on-demand tool calls. Answers cite sources and refuse explicitly when the documentation does not
 support an answer, a control added after observing that users trust a confident wrong answer more
 than an honest one. Evaluation harness measures groundedness at 88% and gates every release.
